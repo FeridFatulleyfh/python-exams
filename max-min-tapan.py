@@ -1,0 +1,6 @@
+eded1 = int(input())
+eded2 = int(input())
+en_boyuk = max(eded1, eded1)
+en_kicik=min(eded1,eded2)
+print("En boyuk : " , en_boyuk)
+print("En kicik : ", en_kicik)
